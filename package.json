@@ -1,0 +1,19 @@
+{
+  "name": "mypage",
+  "version": "1.0.0",
+  "description": "mypage",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuixiaoying1981/mypage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuixiaoying1981/mypage/issues"
+  },
+  "homepage": "https://github.com/cuixiaoying1981/mypage#readme"
+}
